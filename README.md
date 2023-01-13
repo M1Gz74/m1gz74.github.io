@@ -12,6 +12,17 @@ Christian Miguel C. Laut
 
 
 Imporatant Dates
+
+
+
 | Monday | Tuesday | Wednesday | Thursday| Friday|
 |--------|---------|-----------|---------|-------|
 | Meh | Good | Ok | Nice | Best |
+
+
+
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0af9b1lyzWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
